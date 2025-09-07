@@ -122,11 +122,6 @@ Empowered by the latest data visualization techniques, this Power BI banking das
 
 ---
 
-## 📎 Screenshots
-
-*(Add your dashboard images here to visually enhance your README)*
-
----
 
 ## 👤 Author
 
